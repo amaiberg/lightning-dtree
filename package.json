@@ -1,0 +1,62 @@
+{
+  "name": "lightning-dtree",
+  "version": "0.0.8",
+  "dependencies": {
+    "brfs": "^1.4.0",
+    "jquery": "^2.1.4",
+    "leaflet": "^0.7.3",
+    "lightning-client-utils": "^0.6.3",
+    "lightning-visualization": "^0.1.0",
+    "lodash": "^3.10.0"
+  },
+  "keywords": [
+    "lightning-visualization"
+  ],
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "browserify": {
+    "transform": [
+      "brfs"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lightning-viz/lightning-image.git"
+  },
+  "lightning": {
+    "name": "image"
+  },
+  "gitHead": "3351b9018a1f87fd596717aec8acbf4ba59f405d",
+  "description": "Image plot for **Lightning**",
+  "bugs": {
+    "url": "https://github.com/lightning-viz/lightning-image/issues"
+  },
+  "homepage": "https://github.com/lightning-viz/lightning-image",
+  "_id": "lightning-image@0.0.8",
+  "scripts": {},
+  "_shasum": "f05d7f471e70781416d4a88a02c5d4b833d98e2c",
+  "_from": "lightning-image@latest",
+  "_npmVersion": "1.4.28",
+  "_npmUser": {
+    "name": "freeman-lab",
+    "email": "the.freeman.lab@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "mathisonian",
+      "email": "mc@mathisonian.com"
+    },
+    {
+      "name": "freeman-lab",
+      "email": "the.freeman.lab@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "f05d7f471e70781416d4a88a02c5d4b833d98e2c",
+    "tarball": "http://registry.npmjs.org/lightning-image/-/lightning-image-0.0.8.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/lightning-image/-/lightning-image-0.0.8.tgz",
+  "readme": "ERROR: No README data found!"
+}
